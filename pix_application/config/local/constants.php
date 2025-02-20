@@ -1,0 +1,5 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+DEFINE('STRIPE_SECRET_KEY', 'sk_test_KvAIei5VLFu5Uu0uoBHYRPAE');
+DEFINE('STRIPE_PUBLISHABLE_KEY', 'pk_test_Be0H7seBw2hlVww7Di4QJdON');
